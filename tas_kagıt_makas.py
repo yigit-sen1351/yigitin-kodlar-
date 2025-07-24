@@ -46,9 +46,6 @@ def oyun():
         
     print("puan durumu \n","oyuncu 1 puanı : ",o1_puan," \noyuncu 2 puanı : ",o2_puan)
     print(" \n")
-
-
-
 while True:
     for i in range(5):
         oyun()
